@@ -186,7 +186,11 @@ remote feature들까지 합쳐지게 되면 너무 많은 negative sample들이 
 
 ## Author / Reviewer information
 ### Author
-**강인하\(Inha Kang\)**: KAIST / rkswlsj13@kaist.ac.kr
+**강인하\(Inha Kang\)**
+- School of Computing, KAIST
+- Computer Graphics and Visualization Lab
+- Computer Vision | Medical Image Analysis
+- Contact: rkswlsj13@kaist.ac.kr
 
 
 ### Reviewer
